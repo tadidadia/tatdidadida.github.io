@@ -1,3 +1,44 @@
+@font-face {
+    font-family: "Jost-Bold";
+    src: url("/fonts/Jost-700-Bold.eot");
+    /* IE9 Compat Modes */
+    src: url("/fonts/Jost-700-Bold(1).eot") format("embedded-opentype"),
+        /* IE6-IE8 */
+        url("/fonts/Jost-700-Bold.otf") format("opentype"),
+        /* Open Type Font */
+        url("/fonts/Jost-700-Bold.svg") format("svg"),
+        /* Legacy iOS */
+        url("/fonts/Jost-700-Bold.ttf") format("truetype"),
+        /* Safari, Android, iOS */
+        url("/fonts/Jost-700-Bold.woff") format("woff"),
+        /* Modern Browsers */
+        url("/fonts/Jost-700-Bold.woff2") format("woff2");
+    /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Jost-Semi 600*/
+@font-face {
+    font-family: "Jost-Semi";
+    src: url("/fonts/Jost-600-Semi.eot");
+    /* IE9 Compat Modes */
+    src: url("/fonts/Jost-600-Semi.eot?#iefix") format("embedded-opentype"),
+        /* IE6-IE8 */
+        url("/fonts/Jost-600-Semi.otf") format("opentype"),
+        /* Open Type Font */
+        url("/fonts/Jost-600-Semi.svg") format("svg"),
+        /* Legacy iOS */
+        url("/fonts/Jost-600-Semi.ttf") format("truetype"),
+        /* Safari, Android, iOS */
+        url("/fonts/Jost-600-Semi.woff") format("woff"),
+        /* Modern Browsers */
+        url("/fonts/Jost-600-Semi.woff2") format("woff2");
+    /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+}
+
 /*GENERAL*/
 * {
     margin: 0;
